@@ -1,24 +1,6 @@
-# README
+# Friend List App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hello my name is  ayemmt and I work at Gic
+This is my ruby on rails friends
+list App!
+Follow me at ayemmt
